@@ -1,6 +1,6 @@
 # Mario Game
 
-<h2>Descrição 💲</h2>
+<h2>Descrição </h2>
 
 <p>Jogo simples com objetivo de conseguir apenas pontuar ao máximo.</p>
 <p>Jogo feito com inspiração naquele joguinho da tela de erro do google.</p>
